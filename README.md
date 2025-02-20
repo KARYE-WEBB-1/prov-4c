@@ -19,6 +19,9 @@
 font-family: "Playfair Display", serif;
 ```
 - Länka **"Dansens Hus"** till den riktiga webbplatsen: https://dansenshus.se
+- Man skall kunna ange antal biljetter och klicka på knappen. \
+  En bekräftelse text visas i rutan nedan, tex:
+  "Du har valt att köpa 2 biljetter"
 
 ### Kvalité
 * Kommentera din kod.
