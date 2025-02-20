@@ -61,5 +61,6 @@ img {
 
 ### Färger som används
 
-* <code style="background:#7f0029; color:#fff">#7f0029</code>
-* <code style="background:#d1d1d1; color:#000">#d1d1d1</code>
+* <code style="background:#725b79; color:#fff">#725b79</code>
+* <code style="background:#7e00a2; color:#fff">#7e00a2</code>
+* <code style="background:red; color:#000">red</code>
