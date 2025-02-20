@@ -8,7 +8,7 @@
 
 ## Provet
 
-![alt text](dump/Skärmbild 2025-02-20 120243.png)
+![alt text](dump/dum-2.png)
 
 ### Uppgift
 - Skapa en sida som ser ut som skärmdumpen ovan.
